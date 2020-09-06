@@ -3,6 +3,6 @@ using namespace std;
 
 //22. À¨ºÅÉú³É
 int main() {
-	cout << "fuck";
+	cout << "fuck"<<endl;
 	return 0;
 }
