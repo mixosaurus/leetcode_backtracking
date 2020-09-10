@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "leetcode_backtracking", "leetcode_backtracking\leetcode_backtracking.vcxproj", "{144F38FE-375C-45BB-B3BF-4CBF1AC7505A}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Generate_Parentheses", "Generate_Parenthess\leetcode_backtracking.vcxproj", "{144F38FE-375C-45BB-B3BF-4CBF1AC7505A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
