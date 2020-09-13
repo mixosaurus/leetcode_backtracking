@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Generate_Parentheses", "Generate_Parenthess\leetcode_backtracking.vcxproj", "{144F38FE-375C-45BB-B3BF-4CBF1AC7505A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Subsets", "Subsets\Subsets.vcxproj", "{3ABDCF2E-C466-4437-8BDD-87F5E7A981E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{144F38FE-375C-45BB-B3BF-4CBF1AC7505A}.Release|x64.Build.0 = Release|x64
 		{144F38FE-375C-45BB-B3BF-4CBF1AC7505A}.Release|x86.ActiveCfg = Release|Win32
 		{144F38FE-375C-45BB-B3BF-4CBF1AC7505A}.Release|x86.Build.0 = Release|Win32
+		{3ABDCF2E-C466-4437-8BDD-87F5E7A981E1}.Debug|x64.ActiveCfg = Debug|x64
+		{3ABDCF2E-C466-4437-8BDD-87F5E7A981E1}.Debug|x64.Build.0 = Debug|x64
+		{3ABDCF2E-C466-4437-8BDD-87F5E7A981E1}.Debug|x86.ActiveCfg = Debug|Win32
+		{3ABDCF2E-C466-4437-8BDD-87F5E7A981E1}.Debug|x86.Build.0 = Debug|Win32
+		{3ABDCF2E-C466-4437-8BDD-87F5E7A981E1}.Release|x64.ActiveCfg = Release|x64
+		{3ABDCF2E-C466-4437-8BDD-87F5E7A981E1}.Release|x64.Build.0 = Release|x64
+		{3ABDCF2E-C466-4437-8BDD-87F5E7A981E1}.Release|x86.ActiveCfg = Release|Win32
+		{3ABDCF2E-C466-4437-8BDD-87F5E7A981E1}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
