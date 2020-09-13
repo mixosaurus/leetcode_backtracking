@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Generate_Parentheses", "Gen
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Subsets", "Subsets\Subsets.vcxproj", "{3ABDCF2E-C466-4437-8BDD-87F5E7A981E1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Letter_Combinations_of_a_Phone_Number", "Letter_Combinations_of_a_Phone_Number\Letter_Combinations_of_a_Phone_Number.vcxproj", "{3FB18945-430B-4D03-A88E-F3501EECE90A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{3ABDCF2E-C466-4437-8BDD-87F5E7A981E1}.Release|x64.Build.0 = Release|x64
 		{3ABDCF2E-C466-4437-8BDD-87F5E7A981E1}.Release|x86.ActiveCfg = Release|Win32
 		{3ABDCF2E-C466-4437-8BDD-87F5E7A981E1}.Release|x86.Build.0 = Release|Win32
+		{3FB18945-430B-4D03-A88E-F3501EECE90A}.Debug|x64.ActiveCfg = Debug|x64
+		{3FB18945-430B-4D03-A88E-F3501EECE90A}.Debug|x64.Build.0 = Debug|x64
+		{3FB18945-430B-4D03-A88E-F3501EECE90A}.Debug|x86.ActiveCfg = Debug|Win32
+		{3FB18945-430B-4D03-A88E-F3501EECE90A}.Debug|x86.Build.0 = Debug|Win32
+		{3FB18945-430B-4D03-A88E-F3501EECE90A}.Release|x64.ActiveCfg = Release|x64
+		{3FB18945-430B-4D03-A88E-F3501EECE90A}.Release|x64.Build.0 = Release|x64
+		{3FB18945-430B-4D03-A88E-F3501EECE90A}.Release|x86.ActiveCfg = Release|Win32
+		{3FB18945-430B-4D03-A88E-F3501EECE90A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
