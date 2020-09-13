@@ -9,7 +9,7 @@ vector<vector<int>> Solution::subsets(vector<int>& nums) {
     backtrack(0,nums,track);
     return res;
 }
-void Solution::backtrack(int start,vector<int>& nums,vector<int> track) {
+void Solution::backtrack(int start,vector<int>& nums,vector<int>& track) {
     res.push_back(track);
     for (unsigned int i = start; i<nums.size(); i++) {
         //ÐÞ¸Ä±äÁ¿
