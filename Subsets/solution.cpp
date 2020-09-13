@@ -6,7 +6,7 @@ vector<vector<int>> Solution::subsets(vector<int>& nums) {
     //记录走过的路径，相当于实际上遍历解空间树的路径
     //因为从根节点出发最后需要回到根节点，因此执行完毕后，该数组将为空
     vector<int> track;
-    generate(nums,track);
+    backtrack(0,nums,track);
     return res;
 }
 void Solution::backtrack(int start,vector<int>& nums,vector<int> track) {
